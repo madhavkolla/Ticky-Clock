@@ -1,14 +1,11 @@
 # Ticky-Clock
  
-# Project Title
-# TODO LIST
+ ![tickyclock](https://user-images.githubusercontent.com/19499440/36661729-bf3603de-1aa1-11e8-923e-04257d9f1c17.png)
 
 
-# Project Link
+### Skills Needed
 
-### Prerequisites
-
-Basic knowledge of HTML, CSS, javascritp and bootstrap.
+Basic knowledge of HTML, CSS and Javascritp.
 
 ### Installing
 
@@ -64,9 +61,6 @@ Description:
 While this video talks about Sublime as a “has-been,” the people who make Sublime have recently updated the editor making it a viable option today. 
 
 ```
-
-## TODO LIST
-
 
 ## License
 
